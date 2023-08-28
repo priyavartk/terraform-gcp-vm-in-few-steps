@@ -1,5 +1,5 @@
 # Specify the provider (GCP, AWS, Azure)
 provider "google" {
-project = "ac-shared-playground"
-region = "us-central1"
+project = "zippy-nomad-192208"
+region = "europe-west1"
 }
